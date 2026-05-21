@@ -15,6 +15,8 @@ The workflow imports multiple CSV or Excel files, standardizes inconsistent colu
 
 ![Sample output preview](screenshots/sample_output_preview.png)
 
+![Excel summary screenshot](screenshots/excel_summary_sheet_screenshot.png)
+
 | Asset | Link |
 | --- | --- |
 | Architecture diagram | [docs/architecture.md](docs/architecture.md) |
@@ -71,6 +73,7 @@ business-data-cleaner-report-generator/
     revenue_by_month.png
   screenshots/
     sample_output_preview.png
+    excel_summary_sheet_screenshot.png
 ```
 
 ## Setup
