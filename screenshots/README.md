@@ -1,19 +1,19 @@
-# Screenshot Guide
+# Screenshots
 
-Use these screenshots when presenting this project in an Upwork proposal or GitHub portfolio.
+This folder contains the generated output preview used in the main README.
 
-## Recommended Screenshots
+## Included
 
-1. Terminal showing `python main.py` completing successfully.
-2. `output/summary_report.xlsx` open on the `Summary` sheet.
-3. `Top Products` sheet showing ranked product revenue.
-4. `Revenue By Month` sheet showing monthly performance.
-5. `output/top_products_revenue.png`.
-6. `output/revenue_by_month.png`.
-7. Project folder showing `sample_data/`, `output/`, `README.md`, and `main.py`.
+| File | Purpose |
+| --- | --- |
+| [`sample_output_preview.png`](sample_output_preview.png) | Preview of the generated Excel summary output |
 
-## Presentation Notes
+## Related Visual Assets
 
-- Crop screenshots so the generated output is easy to read.
-- Avoid showing private client filenames, names, emails, or revenue data.
-- For real client work, replace sample data with anonymized screenshots.
+Project-level visuals are stored in [`../assets/`](../assets/):
+
+- `banner.png`
+- `architecture_diagram.png`
+- `workflow_diagram.png`
+
+No additional screenshots are required for the GitHub presentation. For an Upwork case study, optional real-world screenshots could be added later, such as Excel opened on the generated workbook or a terminal run screenshot.
