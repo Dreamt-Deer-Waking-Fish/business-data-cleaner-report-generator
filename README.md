@@ -1,12 +1,26 @@
 # Business Data Cleaner & Report Generator
 
+![Project banner](assets/banner.png)
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Output](https://img.shields.io/badge/Output-Excel%20%2B%20PNG-green)
 ![Use Case](https://img.shields.io/badge/Use%20Case-Sales%20Reporting-orange)
+![Validate](https://github.com/Dreamt-Deer-Waking-Fish/business-data-cleaner-report-generator/actions/workflows/validate.yml/badge.svg)
 
 Client-style automation for small businesses that receive messy sales exports from POS, ecommerce, inventory, or accounting systems.
 
 The workflow imports multiple CSV or Excel files, standardizes inconsistent columns, cleans common data issues, removes duplicate orders, calculates key sales metrics, and exports a polished Excel report plus chart images.
+
+## Visual Preview
+
+![Sample output preview](screenshots/sample_output_preview.png)
+
+| Asset | Link |
+| --- | --- |
+| Architecture diagram | [docs/architecture.md](docs/architecture.md) |
+| Workflow diagram | [docs/workflow.md](docs/workflow.md) |
+| Sample output guide | [docs/sample_outputs.md](docs/sample_outputs.md) |
+| Client delivery notes | [docs/client_delivery_notes.md](docs/client_delivery_notes.md) |
 
 ## Client Problem
 
@@ -39,6 +53,14 @@ business-data-cleaner-report-generator/
   README.md
   portfolio_description.md
   docs/
+    architecture.md
+    workflow.md
+    sample_outputs.md
+    client_delivery_notes.md
+  assets/
+    banner.png
+    architecture_diagram.png
+    workflow_diagram.png
   sample_data/
     january_orders.csv
     february_orders.csv
@@ -48,6 +70,7 @@ business-data-cleaner-report-generator/
     top_products_revenue.png
     revenue_by_month.png
   screenshots/
+    sample_output_preview.png
 ```
 
 ## Setup
