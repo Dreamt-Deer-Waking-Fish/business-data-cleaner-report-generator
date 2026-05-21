@@ -1,0 +1,6 @@
+order_id,order_date,customer,product,quantity,unit_price,revenue,region
+1012,2026-03-01,Green Valley Cafe,Espresso Beans 5lb,6,42.50,255.00,West
+1013,2026-03-05,Main Street Salon,Microfiber Towels,18,3.80,68.40,South
+1014,2026-03-10,Riverfront Deli,Cold Brew Concentrate,7,18.90,132.30,North
+1015,2026-03-18,Lakeside Books,Receipt Paper Rolls,30,4.25,127.50,South
+1016,2026-03-25,Bright Office Co,Standing Desk Mat,1,39.00,,East

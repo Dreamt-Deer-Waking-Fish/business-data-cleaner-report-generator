@@ -1,0 +1,7 @@
+Order ID,Order Date,Customer Name,Product Name,Qty,Unit Price,Sales Region
+1001,2026-01-03,Green Valley Cafe,Espresso Beans 5lb,3,42.50,West
+1002,2026-01-05,Oak Street Market,Compostable Cups 12oz,12,9.75,West
+1003,2026-01-08,Riverfront Deli,Cold Brew Concentrate,5,18.90,North
+1004,2026-01-14,Bright Office Co,Standing Desk Mat,2,39.00,East
+1005,2026-01-21,Green Valley Cafe,Espresso Beans 5lb,,42.50,West
+1006,not a date,Lakeside Books,Receipt Paper Rolls,8,4.25,South
